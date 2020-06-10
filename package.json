@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-patterns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/danrleyt/NodeJS-Patterns.git",
+  "author": "danrleyt <danrleyt@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fstream": "^1.0.12",
+    "multipipe": "^4.0.0",
+    "tar": "^6.0.2"
+  }
+}
