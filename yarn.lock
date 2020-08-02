@@ -1051,6 +1051,11 @@ osenv@^0.1.4:
     os-homedir "^1.0.0"
     os-tmpdir "^1.0.0"
 
+parse-fn-args@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/parse-fn-args/-/parse-fn-args-1.0.1.tgz#dd75e4c1bc91ba2f849a66a1a0c557eb18222848"
+  integrity sha512-TbVl0DRkCQ/zDSeqG++dYCv5nY1Ct1ypOGHsK6SgP/BlmXOCFGczWsmNP6PYjva9pPs3elw2eiipncWVnuiFsQ==
+
 parseurl@^1.3.2, parseurl@~1.3.3:
   version "1.3.3"
   resolved "https://registry.yarnpkg.com/parseurl/-/parseurl-1.3.3.tgz#9da19e7bee8d12dff0513ed5b76957793bc2e8d4"
