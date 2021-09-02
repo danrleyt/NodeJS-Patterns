@@ -18,7 +18,7 @@
     "level": "^6.0.1",
     "level-sublevel": "^6.6.5",
     "multipipe": "^4.0.0",
-    "object-path": "^0.11.4",
+    "object-path": "^0.11.6",
     "parse-fn-args": "^1.0.1",
     "tar": "^6.0.2",
     "zeromq": "6.0.0-beta.6"
